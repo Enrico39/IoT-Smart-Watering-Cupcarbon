@@ -1,6 +1,4 @@
-import os
-
-readme_content = """# Smart Watering System — IoT Precision Agriculture Project
+# Smart Watering System — IoT Precision Agriculture Project
 
 An automated, energy-efficient, and secure Smart Irrigation system designed for Precision Agriculture. This project shifts field management from traditional static timers (e.g., scheduled clock activation) to **Dynamic Real-Time Monitoring** driven by environmental data processed directly at the network edge.
 
