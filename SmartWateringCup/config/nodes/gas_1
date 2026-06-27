@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:1
+device_longitude:-2.24533349275589
+device_latitude:53.47846912094656
+device_elevation:0.0
+device_radius:10.0
+device_hide:0
+natural_event_file_name:rain_for_reg.evt

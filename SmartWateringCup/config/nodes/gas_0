@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:0
+device_longitude:-2.2455132007598877
+device_latitude:53.47847071720079
+device_elevation:0.0
+device_radius:10.0
+device_hide:0
+natural_event_file_name:heat_for_reg.evt

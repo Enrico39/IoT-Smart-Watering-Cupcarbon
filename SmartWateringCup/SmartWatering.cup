@@ -1,0 +1,19 @@
+CupCarbon v. IoT 5.1.9 (Parthenope)
+----------------
+name:SmartWatering
+zoom:0
+centerposition_la:53.47823606896738
+centerposition_lo:-2.2445878386497498
+map:2
+display_details:false
+draw_radio_links:true
+draw_sensor_arrows:false
+radio_links_color:3
+draw_marker_arrows:false
+display_rl_distance:false
+propagation:false
+display_marker_distance:false
+display_radio_messages:true
+draw_script_file_name:true
+display_print_messages:true
+display_all_routes:false
